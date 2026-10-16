@@ -265,4 +265,4 @@ Hal yang perlu diperhatikan:
 
 ---
 
-*Dibuat untuk tujuan edukasi. Jika kamu menemukan kesalahan anatomi atau penamaan, silakan buka issue atau kirim koreksi.*
+*Dibuat untuk tujuan edukasi. Jika menemukan kesalahan anatomi atau penamaan, silakan buka issue atau kirim koreksi.*
