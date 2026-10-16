@@ -227,8 +227,6 @@ Teks atribusi yang disarankan untuk dicantumkan di situs atau slide:
 
 ## Lisensi
 
-**Bagian ini bukan nasihat hukum.** Periksa kembali syarat lisensi aslinya sebelum menerbitkan atau memakai secara komersial.
-
 **Ringkasan:** kode aplikasi berlisensi **MIT**; data model 3D dan teks anatomi berlisensi **CC BY-SA 4.0**. Berkas lisensi: [`LICENSE`](LICENSE) (MIT, akar repo), [`data/LICENSE`](data/LICENSE) (teks lengkap CC BY-SA 4.0), dan [`data/NOTICE.md`](data/NOTICE.md) (asal data, perubahan, atribusi).
 
 | Komponen | Lisensi | Catatan |
@@ -241,8 +239,6 @@ Teks atribusi yang disarankan untuk dicantumkan di situs atau slide:
 ### Ketentuan lisensi sumber (Z-Anatomy)
 
 Lisensi: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Pernyataan di README Z-Anatomy (dikutip dalam bahasa aslinya):
 
 > With regard to this content, you are licensed to:
 > * freely access part or whole of this database, and acquire data;
